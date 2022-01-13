@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">secondBirthday</string>
+    <string name="hello_world">Cool Person</string>
+    <string name="my_cool_person">My Cool Person</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+    <string name="happy_birthday_to_you_tunde">Happy Birthday To You, Tunde</string>
+    <string name="happy_birthday_to_you_peter">Happy Birthday to you, Peter!</string>
+    <string name="FromNiyi">FromNiyi</string>
+    <string name="from_niyi">From Niyi</string>
+</resources>
