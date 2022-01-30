@@ -11,7 +11,9 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.SecondBirthday">
-        <activity android:name="com.example.birthdayApp.MainActivity">
+        <activity android:name="com.example.birthdayApp.qoutesActivity">
+        </activity>
+        <activity android:name="MarvelNetwork.Views.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
